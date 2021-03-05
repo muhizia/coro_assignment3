@@ -1,0 +1,2 @@
+[lynxmotion_al5d/controller_spawner-6] process has died [pid 1944, exit code 1, cmd /opt/ros/kinetic/lib/controller_manager/spawner joints_positions joint_state_controller __name:=controller_spawner __log:=/home/cram/.ros/log/0581d7a8-7da7-11eb-93fb-08002746388c/lynxmotion_al5d-controller_spawner-6.log].
+log file: /home/cram/.ros/log/0581d7a8-7da7-11eb-93fb-08002746388c/lynxmotion_al5d-controller_spawner-6*.log

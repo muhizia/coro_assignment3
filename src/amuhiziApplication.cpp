@@ -64,13 +64,13 @@
 #ifdef WIN32
     #include "pickAndPlace.h"
 #else
-    #include <assignment3/jkwizera.h>
+    #include <assignment3/amuhizi.h>
 #endif
 
 int main(int argc, char ** argv) {
   
    #ifdef ROS
-       ros::init(argc, argv, "jkwizera"); // Initialize the ROS system
+       ros::init(argc, argv, "amuhizi"); // Initialize the ROS system
    #endif
 
    extern robotConfigurationDataType robotConfigurationData;

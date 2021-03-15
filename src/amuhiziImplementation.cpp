@@ -19,7 +19,7 @@
 #ifdef WIN32
     #include "pickAndPlace.h"
 #else
-    #include <assignment3/jkwizera.h>
+    #include <assignment3/amuhizi.h>
 #endif
 
 /******************************************************************************
